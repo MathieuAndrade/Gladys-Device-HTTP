@@ -1,2 +1,2 @@
 # Gladys-Device-HTTP
-Gladys hooks for sending http requst.
+Gladys hooks for sending http request.
