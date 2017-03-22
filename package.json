@@ -7,8 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mathieu Andrade",
-  "license": "",
-   "dependencies": {
-    "serialport": "^3.1.2"
-  }
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {}
 }
