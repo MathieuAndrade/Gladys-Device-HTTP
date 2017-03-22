@@ -8,5 +8,7 @@
   },
   "author": "Mathieu Andrade",
   "license": "",
-  "dependencies": "",
+   "dependencies": {
+    "serialport": "^3.1.2"
+  }
 }
