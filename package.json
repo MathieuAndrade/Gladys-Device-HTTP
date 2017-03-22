@@ -9,6 +9,6 @@
   "author": "Mathieu Andrade",
   "license": "",
    "dependencies": {
-    "serialport": "^3.1.2"
+    "": ""
   }
 }
