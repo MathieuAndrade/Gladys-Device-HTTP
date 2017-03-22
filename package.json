@@ -1,7 +1,7 @@
 {
   "name": "gladys-http",
   "version": "0.1.0",
-  "description": "Gladys hooks for sending http requst.",
+  "description": "Gladys hooks for sending http request.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
