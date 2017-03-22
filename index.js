@@ -6,4 +6,5 @@ module.exports = function(sails) {
     
     return {
         exec,
+    };
 };
