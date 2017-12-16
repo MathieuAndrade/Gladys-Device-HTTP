@@ -18,9 +18,7 @@ Gladys hooks for sending http request.
 
 1. Créez un device. 
 Donnez lui un petit nom et dans le champ identifier renseignez l'adresse complete de votre device avec un paramètre si vous le souhaitez, ici ça sera http://192.168.1.55:4200?r= (l'adresse doit comporter l'IP du device ainsi que son Port afin que Gladys puisse le contacter sur le reseau, si vous souhaitez integrer un paramètre il doit être précédé d'un point d'intérogation) 
-Pour cet exemple le paramètres intégré est **r** qui correspond à **relais** mais vous pouvez mettre ce que vous voulez.
-
-Ensuite son service et son protocole sont très important ! Il faut absolument que le service et le protocole soit identique au slug renseigné au moment de l'installation du module Gladys device HTTP ! Donc dans cet exemple c'est **device-http**.
+Pour cet exemple le paramètres intégré est **r** qui correspond à **relais** mais vous pouvez mettre ce que vous voulez. Ensuite son service et son protocole sont très important ! Il faut absolument que le service et le protocole soit identique au slug renseigné au moment de l'installation du module Gladys device HTTP ! Donc dans cet exemple c'est **device-http**.
 
 2. Cliquez sur "Edit" et créé un devicetype.
 
