@@ -6,7 +6,7 @@ Gladys hooks for sending http request.
 Installer le module Gladys Device HTTP
 
 
-## Pour Installer le module Gladys Device HTTP:
+## Pour Installer le module Gladys Device HTTP
 
 Aller dans l'onglet "Avancé" de la vue module de Gladys
 
