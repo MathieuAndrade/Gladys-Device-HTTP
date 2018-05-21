@@ -21,5 +21,6 @@ Donnez lui un petit nom et dans le champ identifier renseignez l'adresse complet
 Pour cet exemple le paramètres intégré est **r** qui correspond à **relais** mais vous pouvez mettre ce que vous voulez. Ensuite son service et son protocole sont très important ! Il faut absolument que le service et le protocole soit identique au slug renseigné au moment de l'installation du module Gladys device HTTP ! Donc dans cet exemple c'est **device-http**.
 
 2. Cliquez sur "Edit" et créé un devicetype.
+Depuis la version 0.1.2 il est possible de passer une commande dans le champ identifier du deviceType, ainsi vous pouvez adapter votre requête en fonction du deviceType. Par exemple si vous voulez envoyer un code infrarouge il vous suffit de créer un device nommé "Télécommande" avec son adresse dans l'identifier et après créer autant de deviceType que de bouton sur votre télécommande avec à chaque fois un code infrarouge diffèrent !
 
 3. Vous pouvez maintenant envoyer une requête http depuis Gladys depuis l'onglet device 😁
